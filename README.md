@@ -49,4 +49,4 @@
 ### Association
 
 - belongs_to :room
-- brlongs_to :user
+- belongs_to :user
